@@ -4,7 +4,7 @@ Provide a simple implementation of LSTNet and an out-of-box way about modeling,f
 
 ---
 Layers
-![Layers](./Layers.png)
+![Layers](./Layers.PNG)
 
 ---
 Result
